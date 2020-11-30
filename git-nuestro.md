@@ -1,3 +1,4 @@
+Oracion del Programador
 *Git* nuestro que estás en l os repos
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
