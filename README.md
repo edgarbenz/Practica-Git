@@ -1,6 +1,6 @@
-# Practica1
+# Practica
+# git
 
-NOTA: Alberto solo se subio la rama <master> y contiene el archivo git-nuestro.md pero la carpeta oculta .git del proyecto no , si la necesitas me dices y te la envio , lo que pasa es que es la primera vez que uso git y github no encontre como subir la carpeta oculta, saludos. Edgar Benzor 
 
 - ¿Qué comando utilizaste en el paso 11?
 $ git reset --hard HEAD~1
